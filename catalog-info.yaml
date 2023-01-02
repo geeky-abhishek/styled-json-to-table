@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: styled-json-to-table
+  annotations:
+    github.com/project-slug: geeky-abhishek/styled-json-to-table
+spec:
+  type: other
+  lifecycle: unknown
+  owner: geeky-abhishek
